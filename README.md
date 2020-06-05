@@ -1,4 +1,5 @@
 # Weather_Application
+Name Of project : Simple Weather App
 Developed in ❣️ with Kotlin
 
 This android application uses openweatherapi for fetching the weather details, as the api is free so it consists max 60 calls
