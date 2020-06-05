@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Simple Weather App</string>
+    <string name="loading_message">Result is loading, Please Wait!</string>
+    <string name="image_contentDescription">image</string>
+    <string name="miles_per_hour">miles/hour</string>
+    <string name="temperature">max temperature</string>
+
+
+    <string name="cloud_desc">Weather</string>
+    <string name="cloud_type_desc">Weather Desc</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="temp_icon_desc">temperature icon</string>
+    <string name="dayoreve_icon_desc">SunSet or SunRise</string>
+    <string name="cityname">City</string>
+    <string name="country_code">Country</string>
+    <string name="lati">Latitude</string>
+    <string name="longi">Longitude</string>
+    <string name="justolookbeautiful">sun</string>
+    <string name="minimum_temp">minimum temperature</string>
+    <string name="refreshit">Refresh</string>
+</resources>
